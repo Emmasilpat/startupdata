@@ -1,2 +1,2 @@
 # startupdata
-Dataset I have created 
+This dataset has been personally curated and generated from sample data. Throughout the creation process, careful measures were taken to ensure that no licenses or copyrights were breached. The intention behind creating this dataset was to provide a valuable resource for the community, and as such, it is made freely available. Anyone is welcome to use, modify, and distribute this dataset without any restrictions. I believe in the power of open data and hope that this dataset serves beneficial purposes for researchers, students, and enthusiasts alike.
